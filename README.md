@@ -1,4 +1,4 @@
-Sustav za prepoznavanje opasnih situacija u prometu temeljen na GeoPandas
+Sustav za prepoznavanje opasnih situacija u prometu temeljen na GeoPandas biblioteci
 
 Ovaj repozitorij sadrži sustav za prepoznavanje opasnih situacija u prometu razvijen uz pomoć GeoPandas biblioteke. Cilj ovog projekta je analizirati i prepoznati opasne prometne situacije, korištenjem geoprostornih operatora unutar GeoPandas-a.
 
